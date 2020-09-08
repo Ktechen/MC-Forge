@@ -27,3 +27,8 @@
 ```%appdata%
 Open: %appdata% and then open .minecraft/mods
 ```
+
+### Server Part
+
+1. Install Linux distributionen like Ubuntu, Debian ...
+2. Create new user ```shell adduser "Name" ```
