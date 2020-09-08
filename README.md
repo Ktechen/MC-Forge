@@ -39,4 +39,4 @@ Open: %appdata% and then open .minecraft/mods
 4. Open folder : ``` cd home/test123 ``` 
 5. Change profil: ``` su test123 ``` 
 6. Download Server: ``` wget https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-installer.jar ``` 
-####(Tipp: For Copy and Paste use SHIFT + INSERT)
+#### (Tipp: For Copy and Paste use SHIFT + INSERT)
