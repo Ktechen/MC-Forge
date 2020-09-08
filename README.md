@@ -36,7 +36,7 @@ Open: %appdata% and then open .minecraft/mods
 ![alt text](https://github.com/Ktechen/MC-Forge/blob/master/pic/adduser.PNG)
 
 3. Download server
-⋅⋅3.1 Open folder : ``` cd home/test123 ``` |
-⋅⋅3.2 Change profil: ``` su test123 ``` |
-⋅⋅3.3 Download Server: ``` wget https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-installer.jar ``` |
+4. Open folder : ``` cd home/test123 ``` |
+5. Change profil: ``` su test123 ``` |
+6. Download Server: ``` wget https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-installer.jar ``` |
    (Tipp: For Copy and Paste use SHIFT + INSERT)
