@@ -42,5 +42,7 @@ Open: %appdata% and then open .minecraft/mods
 #### (Tipp: For Copy and Paste use SHIFT + INSERT)
 7. Install Server: ``` java -jar forge-1.12.2-14.23.5.2854-installer.jar --installServer ```
 8. First start: ``` java -jar forge-1.12.2-14.23.5.2854.jar ```
-9. Agree EULA: ``` vim eula.txt  (Press I to Insert, control+c to cancel and :wq) ```
+9. Agree EULA: ``` vim eula.txt  ```
+#### (Tipp: Press I to Insert, control+c to cancel and :wq) 
+10. Start file ``` vim launch.sh ``` ``` #!/bin/sh java -Xmx16G -Xms2G -jar forge-1.12.2-14.23.5.2854.jar -nogui ```
 
