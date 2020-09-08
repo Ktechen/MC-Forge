@@ -25,5 +25,5 @@
 4. Add mods 
 
 ```%appdata%
-%appdata%
+Open: %appdata%
 ```
