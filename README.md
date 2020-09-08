@@ -45,5 +45,5 @@ Open: %appdata% and then open .minecraft/mods
 9. Agree EULA: ``` vim eula.txt  ```
 #### (Tipp: Press I to Insert, control+c to cancel and :wq) 
 10. Start file ``` vim launch.sh ``` Copy and Paste ``` #!/bin/sh java -Xmx16G -Xms2G -jar forge-1.12.2-14.23.5.2854.jar -nogui ```
-11. Create executable file ``` chmod u+x launch.sh
+11. Create executable file ``` chmod u+x launch.sh ```
 12. Open Screen or create a service ``` screen ``` and then ./launch.sh (Service https://wiki.ubuntuusers.de/Howto/systemd_Service_Unit_Beispiel/)
