@@ -42,7 +42,7 @@ Open: %appdata% and then open .minecraft/mods
 6. Install Server: ``` java -jar forge-1.12.2-14.23.5.2854-installer.jar --installServer ```
 7. First start: ``` java -jar forge-1.12.2-14.23.5.2854.jar ```
 8. Agree EULA: ``` vim eula.txt  ```
-#### (Tipp: Press I to Insert, control+c to cancel and :wq) 
+#### (Tipp: Press I to Insert, control+c to cancel and :wq to save current file) 
 9. Start file: ``` vim launch.sh ``` Copy and Paste: ``` #!/bin/sh java -Xmx16G -Xms2G -jar forge-1.12.2-14.23.5.2854.jar -nogui ```
 10. Create executable file: ``` chmod u+x launch.sh ```
 11. Open Screen or create a service: ``` screen ``` and then: ./launch.sh (Service https://wiki.ubuntuusers.de/Howto/systemd_Service_Unit_Beispiel/)
