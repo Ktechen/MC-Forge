@@ -40,4 +40,7 @@ Open: %appdata% and then open .minecraft/mods
 5. Change profil: ``` su test123 ``` 
 6. Download Server: ``` wget https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-installer.jar ``` 
 #### (Tipp: For Copy and Paste use SHIFT + INSERT)
-7. Install Server: ``` java -jar forge-1.12.2-14.23.5.2854-installer.jar --installServer
+7. Install Server: ``` java -jar forge-1.12.2-14.23.5.2854-installer.jar --installServer ```
+8. First start: ``` java -jar forge-1.12.2-14.23.5.2854.jar ```
+9. Agree EULA: ``` vim eula.txt  (Press I to Insert, control+c to cancel and :wq) ```
+
