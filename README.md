@@ -15,4 +15,8 @@
 
 ![alt text](https://github.com/Ktechen/MC-Forge/blob/master/pic/Client.PNG)
 
-2. start Minecraft 
+2. Start Minecraft and edit JVM-Argumente
+
+```JVM-Argumente
+-Xmx16G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+```
