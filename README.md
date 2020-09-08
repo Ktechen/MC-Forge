@@ -25,5 +25,5 @@
 4. Add mods 
 
 ```%appdata%
-Open: %appdata%
+Open: %appdata% and then open .minecraft/mods
 ```
